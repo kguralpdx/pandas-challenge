@@ -17,7 +17,7 @@ I chose to analyze school data for this challenge. The data included school info
 
 Everything is in the PyCitySchools folder. The data source files are in the Resources folder in that PyCitySchools folder.
 
-* [Jupyter Notebook](PyCitySchools/PyCitySchools_starter.jpynb) - The Jupyter Notebook file that contains the scripts and results (this link doesn't seem to work)
+* [Jupyter Notebook] (PyCitySchools/PyCitySchools_starter.jpynb) - The Jupyter Notebook file that contains the scripts and results
 * [Schools Data](PyCitySchools/Resources/schools_complete.csv) - this is the schools data file to be analyzed
 * [Student Data](PyCitySchools/Resources/students_complete.csv) - this is the student data file to be analyzed
 
