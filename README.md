@@ -24,4 +24,4 @@ Everything is in the PyCitySchools folder. The data source files are in the Reso
 
 ## Notes
 
-I wasn't able to get all the formatting done on each displayed table. I could format the data in the tables and align the row and column headings in the dataframes. I didn't get to borders and the groupbys. Did some Google searching to try and help but ran out of time. I also changed the bin labels from what we were given; some of the ranges' start and end values overlapped so I changed that.
+I wasn't able to get all the formatting done on each displayed table. I could format the data in the tables and align the row and column headings in the dataframes. The rest of the formatting like borders was not added. Did some Google searching to try and help but ran out of time. I also changed the bin labels from what we were given; some of the ranges' start and end values overlapped so I changed that.
